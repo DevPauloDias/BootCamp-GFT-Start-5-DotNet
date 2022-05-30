@@ -1,0 +1,32 @@
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\BootCamp GFT -dotNet\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\Paulo Dias\Documents\BootCamp_GFT_Start5_C#\AppCadastroSeries\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
