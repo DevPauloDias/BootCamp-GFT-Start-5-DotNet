@@ -116,10 +116,12 @@ namespace Dio.Series
                     descricao:entradaDescricao);
 
             repositorio.Insere(novaSerie);
+            Console.Clear();
         }
 
         private static void ListarSeries()
         {
+            Console.Clear();
             Console.WriteLine("Listar séries");
             var lista = repositorio.Lista();
 
@@ -137,6 +139,8 @@ namespace Dio.Series
             }
         }
 
+       
+
         private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
@@ -153,7 +157,9 @@ namespace Dio.Series
 
             string opcaoUsuario = Console.ReadLine().ToUpper();
             Console.WriteLine();
+            Console.Clear();
             return opcaoUsuario;
+            
 
         }
 
